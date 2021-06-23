@@ -3,7 +3,7 @@ const components = {};
 components.registerScreen = `
 <div class="register-container">
 <div class="register-form">
-    <div class="title">The Caro</div>
+    <div class="title">NguyenXO</div>
     <form id="form-register">
         <div class="name-wrapper">
             <div class="input-wrapper">
@@ -40,7 +40,7 @@ components.registerScreen = `
 components.loginScreen = `
 <div class = "login-container">
 <div class = "login-form">
-    <div class = "title">The Caro</div>
+    <div class = "title">NguyenXO</div>
     <form id = "form-login">
       <div class = "name-wrapper">
         <div class = "input-wrapper">
@@ -64,7 +64,7 @@ components.loginScreen = `
 components.menuScreen = `
 <div class="menu-container"> 
 
-    <div class="name-title">The Caro</div>
+    <div class="name-title">NguyenXO</div>
     
     <div class="room-list">
         
@@ -82,7 +82,7 @@ components.menuScreen = `
 components.gameScreen = `
 <div class="game-container">
 <form id="game-form">
-<div class="name-title">The Caro</div>
+<div class="name-title">NguyenXO</div>
 <div id = "divmain">
 <table id="table">
 </table>
