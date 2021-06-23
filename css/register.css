@@ -1,0 +1,88 @@
+.register-container{
+    background: url(../images/game2.jpg);
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .login-container{
+      background:url(../images/game2.jpg);
+      height: 100vh;
+      background-size: cover;
+      text-align: center;
+      padding-top: 100px;
+  }
+  .register-container .register-form{
+    width: 400px;
+    height: 100vh;
+    padding: 20px;
+    display: inline-block;
+  }
+
+  .login-container .login-form{
+    width: 400px;
+    height: 100vh;
+    padding: 50px;
+    display: inline-block;
+  
+
+    
+
+  }
+  .register-form .title{
+    text-align: center;
+    font-size: 38px;
+    color: orange;
+    font-family: 'Ranchers', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .login-form .title{
+    text-align: center;
+    font-size: 38px;
+    color: orange;
+    font-family: 'Ranchers', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+  }
+  
+  .register-form .input-wrapper{
+    margin-bottom: 10px;
+  }
+
+  .login-form .input-wrapper{
+      margin-bottom: 10px;
+      
+  }
+  .name-wrapper .input-wrapper input{
+    width: 98%;
+  }
+  .register-form .name-wrapper{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .register-form .submit-wrapper{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .login-form .submit-wrapper{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+
+  }
+
+  .register-form .submit-wrapper .account-exist{
+    color: black;
+  }
+  .login-form .submit-wrapper .account-exist{
+    color: black;
+  }
+  
